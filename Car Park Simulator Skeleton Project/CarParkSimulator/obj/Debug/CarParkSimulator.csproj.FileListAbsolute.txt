@@ -1,0 +1,4 @@
+F:\Downloads - SanDisk\Car Park Simulator Skeleton Project\CarParkSimulator\obj\Debug\CarParkSimulator.csprojAssemblyReference.cache
+F:\Downloads - SanDisk\Car Park Simulator Skeleton Project\CarParkSimulator\obj\Debug\CarParkSimulator.Properties.Resources.resources
+F:\Downloads - SanDisk\Car Park Simulator Skeleton Project\CarParkSimulator\obj\Debug\CarParkSimulator.SimulatorInterface.resources
+F:\Downloads - SanDisk\Car Park Simulator Skeleton Project\CarParkSimulator\obj\Debug\CarParkSimulator.csproj.GenerateResource.cache
